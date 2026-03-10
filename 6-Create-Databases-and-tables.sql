@@ -11,7 +11,7 @@ CREATE TABLE account(
 --Insert values to a table
 INSERT INTO account(username, password,email,created_on)
 VALUES
-('Mohammad', 'password', 'mohammad@gmail.com', CURRENT_TIMESTAMP)
+('Mohammad', '123456789', 'mohammad@gmail.com', CURRENT_TIMESTAMP)
 
 --Update a value
 UPDATE account
